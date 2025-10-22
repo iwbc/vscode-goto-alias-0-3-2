@@ -1,7 +1,7 @@
 {
-  "publisher": "antfu",
-  "name": "goto-alias",
-  "displayName": "Goto definition alias",
+  "publisher": "iwbc",
+  "name": "goto-alias-0-3-2",
+  "displayName": "Goto definition alias 0.3.2",
   "type": "module",
   "version": "0.3.2",
   "packageManager": "pnpm@10.15.0",
